@@ -1,0 +1,14 @@
+layout_spectrum: 0.3399634438101202
+typography_spectrum: 0.34792533447034657
+color:
+  brandStrength: 0.012686681002378464
+  lightness: 0.7171014754567295
+  saturation: 0.0783439411316067
+  rhythmicContrast: 0.6426574792712927
+  brandColors:
+    - '#464646'
+    - '#FFFFFF'
+    - '#666465'
+    - '#B6ADAB'
+    - '#C68F7A'
+name: robotic rainbow
