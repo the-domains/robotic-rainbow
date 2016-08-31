@@ -11,10 +11,10 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.3399634438101202
-name: robotic rainbow
+name: wild life
 navigation:
   - name: Bistro
     id: 7085ccda-088d-4690-8829-7148e230b8b0
     type: content
-title: Awesome Rainbow
+title: ''
 description: This is not cool
