@@ -22,16 +22,14 @@ description: >-
   upgrades, scalability and security.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://prismic.io/'
 title: A CMS backend for your websites
-datePublished: '2016-08-30T06:57:36.969Z'
-dateModified: '2016-08-30T06:57:19.394Z'
+datePublished: '2016-08-30T07:29:12.479Z'
+dateModified: '2016-08-30T07:29:12.072Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-30-a-cms-backend-for-your-websites.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: a-cms-backend-for-your-websites/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
