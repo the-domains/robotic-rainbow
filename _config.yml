@@ -12,9 +12,5 @@ color:
     - '#E376B7'
 layout_spectrum: 0.3399634438101202
 name: night life
-navigation:
-  - name: Bistro
-    id: 7085ccda-088d-4690-8829-7148e230b8b0
-    type: content
 title: ''
 description: ''
