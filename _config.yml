@@ -16,5 +16,8 @@ navigation:
   - name: forest
     id: 29453c55-14a0-4b77-8ec7-99f2bf1d860e
     type: content
+  - name: design
+    id: 6e369866-2276-470b-beca-2101af957802
+    type: content
 title: ''
 description: ''
