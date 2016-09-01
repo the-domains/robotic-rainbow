@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T07:22:54.929Z'
+datePublished: '2016-08-30T07:26:45.478Z'
 sourcePath: >-
   _posts/2016-08-30-far-far-away-behind-the-word-mountains-far-from-the-countr.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T07:22:54.269Z'
+dateModified: '2016-08-30T07:26:45.114Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,8 +18,10 @@ description: >-
   blind texts it is an almost unorthographic life One day however a small line
   of blind text by the name of Lorem Ipsum decided to leave for the far World of
   Grammar.
+hasPage: true
 starred: false
-_type: Blurb
+url: far-far-away-behind-the-word-mountains-far-from-the-countr/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65278961-d3e2-4f90-b04f-4c2063472195.jpg)
