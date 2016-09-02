@@ -1,3 +1,4 @@
+layout_spectrum: 0.3399634438101202
 typography_spectrum: 0.34792533447034657
 color:
   brandStrength: 0.012686681002378464
@@ -10,17 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.3399634438101202
 name: robotic rainbow
-navigation:
-  - name: forest
-    id: 29453c55-14a0-4b77-8ec7-99f2bf1d860e
-    type: content
-  - name: design
-    id: 6e369866-2276-470b-beca-2101af957802
-    type: content
-  - name: CMS
-    id: 476531d4-07c9-46c8-9840-b2796c1296a8
-    type: content
-title: Uber
-description: the best
